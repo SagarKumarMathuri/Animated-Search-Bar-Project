@@ -45,9 +45,9 @@ body {
   transition-delay: 0.5s;
 }
 
-/* .active.search-bar-container {
+.active.search-bar-container {
   width: 50px;
-} */
+}
 
 .active .input {
   width: 0;
